@@ -7,9 +7,10 @@ import CourseDetailPage from './pages/CourseDetailPage';
 import DashboardPage from './pages/DashboardPage';
 import LessonPlayerPage from './pages/LessonPlayerPage';
 import { ToastContainer } from 'react-toastify';
+import './app.css'
 import 'react-toastify/dist/ReactToastify.css';
 import Header from './components/Header'
-import './app.css'
+
 
 
 function App() {
