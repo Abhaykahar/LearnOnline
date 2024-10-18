@@ -9,7 +9,7 @@ import LessonPlayerPage from './pages/LessonPlayerPage';
 import { ToastContainer } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 import Header from './components/Header'
-import './app.css'
+import './App.css'
 
 
 function App() {
