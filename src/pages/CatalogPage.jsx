@@ -95,7 +95,7 @@ function CatalogPage() {
         placeholder="Search courses..."
         value={search}
         onChange={e => setSearch(e.target.value)}
-        className="p-3 border border-gray-300 rounded-md shadow-md focus:outline-none focus:ring-2 focus:ring-blue-500"
+        className="p-3 me-5 border border-gray-300 rounded-md shadow-md focus:outline-none focus:ring-2 focus:ring-blue-500"
       />
       <select 
         value={filter} 
